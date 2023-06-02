@@ -1,0 +1,11 @@
+{
+    "name": "io.github.vr-voyage.coop-map-maker-loader",
+    "displayName": "Voyage's Coop Map Maker loader for Unity",
+    "version": "0.0.1",
+    "description": "This provides an editor script allowing users to load saved JSON data from the Coop Map Maker world, aka Voyage Kensetu, and recreate the spawned elements.",
+    "vpmDependencies": {
+      "com.vrchat.worlds": "3.2.0"
+    },
+    "license": "MIT"
+  }
+  
